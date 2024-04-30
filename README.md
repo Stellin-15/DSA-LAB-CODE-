@@ -17,6 +17,29 @@ WEEK 3
 
 WEEK 4 
 
+![image](https://github.com/Stellin-15/DSA-LAB-CODE-/assets/123811154/e4e6b313-33ab-42de-8bd0-16880b0886ee)
 
 
 WEEK 5 
+
+![image](https://github.com/Stellin-15/DSA-LAB-CODE-/assets/123811154/f1256e41-480d-449f-9a42-2bf8ea3e1f28)
+
+
+WEEK 6
+
+![image](https://github.com/Stellin-15/DSA-LAB-CODE-/assets/123811154/5423f654-f582-435c-bfff-2a77f6f10e14)
+
+
+WEEK 7 
+
+![image](https://github.com/Stellin-15/DSA-LAB-CODE-/assets/123811154/b8763ffd-b58c-43cd-8944-f29d2cfeb0ef)
+
+
+WEEK 8 
+
+![image](https://github.com/Stellin-15/DSA-LAB-CODE-/assets/123811154/1879905a-3f1e-444f-bc33-bd8abf929d83)
+
+
+WEEK 9 
+
+![image](https://github.com/Stellin-15/DSA-LAB-CODE-/assets/123811154/00fe8811-e6d1-4abd-8f34-628650a141d9)
