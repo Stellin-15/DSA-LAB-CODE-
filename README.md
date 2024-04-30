@@ -1,5 +1,6 @@
 # DSA-LAB-CODE-
 This is a repo for reference and has most of the lab codes.
+Below you will find the question for each week and the code for them on each subsequent folder. 
 
 WEEK 1 
 
